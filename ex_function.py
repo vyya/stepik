@@ -39,8 +39,6 @@ print(f'max value is - {nested}')
 
 # Importing math module and using functions
 
-import math
-
 # looking through the all module functions: math. in console
 # rounding to the closest bigger value
 import math
