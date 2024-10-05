@@ -23,4 +23,5 @@ x = 5.8
 s = 'helloween'
 print(type(x), type(s))
 
-# python console - help() - keywords to look at the service keywords
+# python con
+# console - help() - keywords to look at the service keywords
