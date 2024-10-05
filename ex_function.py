@@ -57,3 +57,33 @@ print(f'The Factorial is - {fac}')
 # Get rid of numbers after the dot
 tr = math.trunc(568.24335)
 print(f'Truncated value: {tr}')
+
+# integer in Python
+z = int(3.12)
+print(z)
+
+# Logarithmic function
+logarithm = math.log2(4)
+loga_10 = math.log10(1000)
+print(logarithm, loga_10)
+
+# Natural logarithm ln
+ln = math.log(2.7)
+print(ln)
+
+#Logarithm with any base
+lga = math.log(27, 3)
+print(lga)
+
+# Square root
+q = 64
+sq = math.sqrt(q)
+print(f'The square root of {q} is {sq}')
+
+# Trigonometry functions math.sin(), math.cos()
+
+# Constants
+pi = math.pi
+e = math.e
+
+print(f'Constant Pi is equal to {pi}, and exponent is equal to {e}')
